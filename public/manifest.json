@@ -1,0 +1,9 @@
+{
+    "name": "Price Averager",
+    "description": "Read and average prices on amazon pages",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
