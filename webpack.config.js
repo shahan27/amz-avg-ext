@@ -28,7 +28,8 @@ const pluginsassa = [
 module.exports = {
     mode: "production",
     entry: {
-        popup: "./src/popup-page/popup.tsx"
+        popup: "./src/popup-page/popup.tsx",
+        contentscript: "./src/contentscript.ts",
     },
     output: {
         filename: '[name].js',
