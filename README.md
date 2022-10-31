@@ -1,5 +1,6 @@
 # amz-avg-ext
 
+***ALLOW PAGE TO LOAD***
 Download dependacies 
 
 To Run: 
